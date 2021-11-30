@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #01103f;
+  --secondary-color: rgba(255, 255, 255, 0.8);
+  --third-color: #fec30128;
+
+  --primary-font-color: rgba(255, 255, 255, 0.75);
+  --secondary-font-color: #f4c95d;
+  --third-font-color: rgba(0, 0, 0, 0.75);
+
+  /*Option One  */
+  --hot-pink: #ffaebbaf;
+  --tiffany-blue: #a0e7e5b7;
+  --mint: #b4f8c9b2;
+  --yellow: #fbe7c6ad;
+
+  /* Option two */
+  --midnight-blue: #145da0;
+  --dark-blue: #0c2d48;
+  --blue: #2e8bc0;
+  --baby-blue: #b1d4e0;
+}

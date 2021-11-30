@@ -1,0 +1,12 @@
+.navigation-links {
+  transition: all 0.45s;
+  padding: 0 2% 5% 2%;
+  -webkit-transition: all 0.45s;
+  -moz-transition: all 0.45s;
+  -ms-transition: all 0.45s;
+  -o-transition: all 0.45s;
+}
+.navigation-links:hover {
+  color: var(--secondary-font-color);
+  border-bottom: 2px var(--secondary-font-color) solid;
+}
